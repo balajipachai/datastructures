@@ -1,0 +1,4 @@
+*.hpp.*
+a.out
+# CPP Config file
+c_cpp_properties.json
